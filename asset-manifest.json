@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://isaacbiy.github.io/csb-5smrs/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://isaacbiy.github.io/csb-5smrs/static/js/main.df29aaf6.chunk.js",
+    "main.js.map": "https://isaacbiy.github.io/csb-5smrs/static/js/main.df29aaf6.chunk.js.map",
+    "runtime-main.js": "https://isaacbiy.github.io/csb-5smrs/static/js/runtime-main.612beedf.js",
+    "runtime-main.js.map": "https://isaacbiy.github.io/csb-5smrs/static/js/runtime-main.612beedf.js.map",
+    "static/js/2.7f1353f3.chunk.js": "https://isaacbiy.github.io/csb-5smrs/static/js/2.7f1353f3.chunk.js",
+    "static/js/2.7f1353f3.chunk.js.map": "https://isaacbiy.github.io/csb-5smrs/static/js/2.7f1353f3.chunk.js.map",
+    "index.html": "https://isaacbiy.github.io/csb-5smrs/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://isaacbiy.github.io/csb-5smrs/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7f1353f3.chunk.js.LICENSE.txt": "https://isaacbiy.github.io/csb-5smrs/static/js/2.7f1353f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612beedf.js",
+    "static/js/2.7f1353f3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.df29aaf6.chunk.js"
+  ]
+}
